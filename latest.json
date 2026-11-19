@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.3.2",
-  "apk": "inbook-0.3.2.apk",
-  "sha256": "c49bf5356ddd09bf036e3f84107ee9e2e5b0d533e23e0cacd3a972c23d3ac160",
-  "size": 139882,
-  "notes": "快速打字机、侧栏过渡、悬浮毛玻璃输入框和附件兼容性修复。"
+  "versionCode": 9,
+  "versionName": "0.3.3",
+  "apk": "inbook-0.3.3.apk",
+  "sha256": "78c1e5275ea088932c60af4d21be6e3e762c8559e47593580717f21e392dc368",
+  "size": 148074,
+  "notes": "优化游戏入口和存档；改进开局、回合及导入恢复；独立附件加号；更丰富的 Markdown 排版。"
 }
