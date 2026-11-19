@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.1",
-  "apk": "inbook-0.3.1.apk",
-  "sha256": "28689d7f2aecbadd81146d0e181f87069cfa81e6d80d0e71888cc732bd539940",
-  "size": 135926,
-  "notes": "Built-in update source and automatic update checks."
+  "versionCode": 8,
+  "versionName": "0.3.2",
+  "apk": "inbook-0.3.2.apk",
+  "sha256": "c49bf5356ddd09bf036e3f84107ee9e2e5b0d533e23e0cacd3a972c23d3ac160",
+  "size": 139882,
+  "notes": "快速打字机、侧栏过渡、悬浮毛玻璃输入框和附件兼容性修复。"
 }
