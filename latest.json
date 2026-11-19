@@ -1,0 +1,8 @@
+{
+  "versionCode": 6,
+  "versionName": "0.3.0",
+  "apk": "inbook-0.3.0.apk",
+  "sha256": "b76632fb7d79829630af52ddca7a6322d054a067203eee938f4a28b8153d64a9",
+  "size": 135926,
+  "notes": "Chat-first layout; searchable history, attachments, reasoning, and reply actions."
+}
