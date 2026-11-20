@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.3.6",
-  "apk": "inbook-0.3.6.apk",
-  "sha256": "c597239eb695b72436d828f6fe661d2556d1dee23cd34bb93ddc049d316d1465",
-  "size": 148073,
-  "notes": "默认显式关闭深度思考；开启开关才请求深度思考；始终只显示正文。"
+  "versionCode": 13,
+  "versionName": "0.3.7",
+  "apk": "inbook-0.3.7.apk",
+  "sha256": "bbb043f72019cef80632d265b7c23ed16604af841f4099c19ad6269174bc8256",
+  "size": 152169,
+  "notes": "回复全部可见时不自动滚动；超出可见区域时只定位一次。"
 }
