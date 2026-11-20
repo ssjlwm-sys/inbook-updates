@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.3.8",
-  "apk": "inbook-0.3.8.apk",
-  "sha256": "d49bc72d0f703f5041799f1e7513c2ae759c26ab6f90a6e8078084059008f15f",
-  "size": 152171,
-  "notes": "聊天内显示三点等待；隐藏应用滚动条；游戏行动选项可点击直接提交，保留草稿。"
+  "versionCode": 15,
+  "versionName": "0.3.9",
+  "apk": "inbook-0.3.9.apk",
+  "sha256": "ce07a8448970fd383ff625b2618aa5e5b03e5cfee975e4564866bc1d41f9fd4f",
+  "size": 152170,
+  "notes": "修复游戏回合遇到无效剧情 JSON 时反复无法推进的问题。自动重试，保留原存档。"
 }
