@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.3.5",
-  "apk": "inbook-0.3.5.apk",
-  "sha256": "c646c1e97660b820aabc79bfb9f5ed7ee146ec417d26bd0bd6671c569e2cad34",
-  "size": 152170,
-  "notes": "游戏首屏直接上传资料并填写补充设定；统一三点加载；流式首段和打字收尾更快。"
+  "versionCode": 12,
+  "versionName": "0.3.6",
+  "apk": "inbook-0.3.6.apk",
+  "sha256": "c597239eb695b72436d828f6fe661d2556d1dee23cd34bb93ddc049d316d1465",
+  "size": 148073,
+  "notes": "默认显式关闭深度思考；开启开关才请求深度思考；始终只显示正文。"
 }
