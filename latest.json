@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "0.3.9",
-  "apk": "inbook-0.3.9.apk",
-  "sha256": "ce07a8448970fd383ff625b2618aa5e5b03e5cfee975e4564866bc1d41f9fd4f",
-  "size": 152170,
-  "notes": "修复游戏回合遇到无效剧情 JSON 时反复无法推进的问题。自动重试，保留原存档。"
+  "versionCode": 16,
+  "versionName": "0.4.0",
+  "apk": "inbook-0.4.0.apk",
+  "sha256": "2508500904b833c30ad9bed41ef4121a70311c96d05560d2dcae0b1ff1d08c47",
+  "size": 152171,
+  "notes": "游戏开局与回合只请求一次；手机自动提取行动和校验结算，纯正文也能保存并继续。"
 }
