@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.3.7",
-  "apk": "inbook-0.3.7.apk",
-  "sha256": "bbb043f72019cef80632d265b7c23ed16604af841f4099c19ad6269174bc8256",
-  "size": 152169,
-  "notes": "回复全部可见时不自动滚动；超出可见区域时只定位一次。"
+  "versionCode": 14,
+  "versionName": "0.3.8",
+  "apk": "inbook-0.3.8.apk",
+  "sha256": "d49bc72d0f703f5041799f1e7513c2ae759c26ab6f90a6e8078084059008f15f",
+  "size": 152171,
+  "notes": "聊天内显示三点等待；隐藏应用滚动条；游戏行动选项可点击直接提交，保留草稿。"
 }
